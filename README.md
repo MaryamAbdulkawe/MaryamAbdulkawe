@@ -22,7 +22,7 @@ I'm a passionate **Back-End Web Developer** with experience in **Pharmaceutical 
 
 ## Get in Touch 📬
 
-- **LinkedIn**https://www.linkedin.com/in/maryammagdy77/
-- **Twitter**https://x.com/_maryam_magdy
+- **LinkedIn:** https://www.linkedin.com/in/maryammagdy77/
+- **Twitter:** https://x.com/_maryam_magdy
 
 
