@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [Maryam Abdulkawe]! 👋
 
-<!--
-**MaryamAbdulkawe/MaryamAbdulkawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[Back-End Web Developer]** with experience in **[Pharmaceutical Science]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[Web Development at ALX]**
+- 🔭 Working on: **[My Mental Health]**
+- 🌍 Languages: **[English, Arabic]**
+- 📫 How to reach me: **[maryam.abdulkawe@gmail.com]**
+- ⚡ Fun fact: **[I’m a pharmacy graduate with a humanitarian studies obsession, a flock of 7 parrots, and a history of rescuing pigeons. I adore birds, frogs, spiders—and I secretly psychoanalyze everyone I meet (for science, of course).]**
+
+## My Skills 🧠
+
+
+## Featured Projects 💻
+
+### [Project 1: Still in progress, please be patient]
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/maryammagdy77/)
+- **[Twitter]**(https://x.com/_maryam_magdy)
+
+
