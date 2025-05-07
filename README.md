@@ -1,6 +1,7 @@
 # Hi there, I'm Maryam Abdulkawe! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![image](https://github.com/user-attachments/assets/8ab3e768-e5ef-4502-992d-c9e0d4fd4b22)
+)
 
 ## About Me 🚀
 
