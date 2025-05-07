@@ -1,12 +1,12 @@
-# Hi there, I'm [Maryam Abdulkawe]! 👋
+# Hi there, I'm Maryam Abdulkawe! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Back-End Web Developer]** with experience in **[Pharmaceutical Science]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Back-End Web Developer** with experience in **Pharmaceutical Science**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Web Development at ALX]**
+- 🌱 Currently learning: **Web Development at ALX**
 - 🔭 Working on: **[My Mental Health]**
 - 🌍 Languages: **[English, Arabic]**
 - 📫 How to reach me: **[maryam.abdulkawe@gmail.com]**
